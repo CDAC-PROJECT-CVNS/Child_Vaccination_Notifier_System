@@ -1,0 +1,4 @@
+From https://github.com/CDAC-PROJECT-CVNS/Child_Vaccination_Notifier_System
+ * [new branch]      feature/Clinic -> origin/feature/Clinic
+error: some local refs could not be updated; try running
+ 'git remote prune origin' to remove any old, conflicting branches
